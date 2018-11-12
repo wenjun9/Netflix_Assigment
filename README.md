@@ -6,7 +6,7 @@ By Kathy(Wenjun) Lin
 Run the application:
 
 front-end: 
-1. cd client
+1. cd front-end
 2. npm install
 3. npm start
 
